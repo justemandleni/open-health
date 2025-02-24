@@ -4,5 +4,5 @@
     <label>Patient</label>
     <type>Lookup</type>
     <referenceTo>Patient__c</referenceTo>
-    <relationshipName>Patients</relationshipName>
+    <relationshipName>InsuredPatient</relationshipName>
 </CustomField>
