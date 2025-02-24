@@ -4,5 +4,5 @@
     <label>MedicalRecord</label>
     <type>Lookup</type>
     <referenceTo>MedicalRecord__c</referenceTo>
-    <relationshipName>MedicalRecords</relationshipName>
+    <relationshipName>LabResultMedicalRecord</relationshipName>
 </CustomField>

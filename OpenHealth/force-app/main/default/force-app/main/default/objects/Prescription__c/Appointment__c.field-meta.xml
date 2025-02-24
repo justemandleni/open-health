@@ -4,5 +4,5 @@
     <label>Appointment</label>
     <type>Lookup</type>
     <referenceTo>Appointment__c</referenceTo>
-    <relationshipName>Appointments</relationshipName>
+    <relationshipName>AppointmentPrescription</relationshipName>
 </CustomField>

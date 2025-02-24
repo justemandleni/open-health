@@ -4,5 +4,5 @@
     <label>PatientBilling</label>
     <type>Lookup</type>
     <referenceTo>PatientBilling__c</referenceTo>
-    <relationshipName>PatientBillings</relationshipName>
+    <relationshipName>PatientBillingPayment</relationshipName>
 </CustomField>
