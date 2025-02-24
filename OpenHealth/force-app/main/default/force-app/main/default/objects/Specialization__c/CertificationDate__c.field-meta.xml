@@ -3,5 +3,4 @@
     <fullName>CertificationDate__c</fullName>
     <label>CertificationDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

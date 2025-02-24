@@ -3,5 +3,4 @@
     <fullName>Email__c</fullName>
     <label>Email</label>
     <type>Email</type>
-    <length>255</length>
 </CustomField>

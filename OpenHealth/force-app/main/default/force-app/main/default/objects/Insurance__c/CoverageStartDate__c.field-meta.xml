@@ -3,5 +3,4 @@
     <fullName>CoverageStartDate__c</fullName>
     <label>CoverageStartDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

@@ -3,5 +3,4 @@
     <fullName>DiagnosedDate__c</fullName>
     <label>DiagnosedDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

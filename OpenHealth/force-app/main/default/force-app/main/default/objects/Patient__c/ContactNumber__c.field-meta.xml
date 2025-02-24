@@ -3,5 +3,4 @@
     <fullName>ContactNumber__c</fullName>
     <label>ContactNumber</label>
     <type>Phone</type>
-    <length>255</length>
 </CustomField>

@@ -3,5 +3,4 @@
     <fullName>SubmissionDate__c</fullName>
     <label>SubmissionDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

@@ -3,5 +3,4 @@
     <fullName>DueDate__c</fullName>
     <label>DueDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

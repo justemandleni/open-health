@@ -3,5 +3,4 @@
     <fullName>LastUpdated__c</fullName>
     <label>LastUpdated</label>
     <type>DateTime</type>
-    <length>255</length>
 </CustomField>

@@ -3,5 +3,4 @@
     <fullName>PaymentDate__c</fullName>
     <label>PaymentDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

@@ -3,5 +3,4 @@
     <fullName>WorkDate__c</fullName>
     <label>WorkDate</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>

@@ -3,5 +3,4 @@
     <fullName>EndTime__c</fullName>
     <label>EndTime</label>
     <type>Time</type>
-    <length>255</length>
 </CustomField>

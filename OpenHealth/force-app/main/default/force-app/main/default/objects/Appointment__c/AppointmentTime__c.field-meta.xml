@@ -3,5 +3,4 @@
     <fullName>AppointmentTime__c</fullName>
     <label>AppointmentTime</label>
     <type>DateTime</type>
-    <length>255</length>
 </CustomField>

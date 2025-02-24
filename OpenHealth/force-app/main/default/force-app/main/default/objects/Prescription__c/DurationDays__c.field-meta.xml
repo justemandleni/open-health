@@ -3,5 +3,6 @@
     <fullName>DurationDays__c</fullName>
     <label>DurationDays</label>
     <type>Number</type>
-    <length>255</length>
+    <precision>18</precision>
+    <scale>0</scale> 
 </CustomField>

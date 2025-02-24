@@ -3,5 +3,4 @@
     <fullName>DateOfBirth__c</fullName>
     <label>DateOfBirth</label>
     <type>Date</type>
-    <length>255</length>
 </CustomField>
