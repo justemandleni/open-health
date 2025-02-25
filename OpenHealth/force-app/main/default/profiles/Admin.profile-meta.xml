@@ -5,7 +5,7 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    <custom>true</custom>
+    <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
         <field>Allergy__c.Allergen__c</field>
@@ -1296,6 +1296,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewRoles</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewSALifecycle</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
