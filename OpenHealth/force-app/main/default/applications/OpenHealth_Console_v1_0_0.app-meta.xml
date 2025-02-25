@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#383762</headerColor>
+        <logo>OHC_eab83b462d</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>OpenHealth Console Application v1.0.0</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>true</isNavTabPersistenceDisabled>
+    <label>OpenHealth Console</label>
+    <navType>Console</navType>
+    <tabs>Doctor__c</tabs>
+    <tabs>Patient__c</tabs>
+    <tabs>Appointment__c</tabs>
+    <tabs>InsuranceClaim__c</tabs>
+    <tabs>Insurance__c</tabs>
+    <tabs>Payment__c</tabs>
+    <tabs>LabResult__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>OpenHealth_Console_UtilityBar</utilityBar>
+    <workspaceConfig>
+        <mappings>
+            <tab>Appointment__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Doctor__c</tab>
+        </mappings>
+        <mappings>
+            <tab>InsuranceClaim__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Insurance__c</tab>
+        </mappings>
+        <mappings>
+            <tab>LabResult__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Patient__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Payment__c</tab>
+        </mappings>
+    </workspaceConfig>
+</CustomApplication>
